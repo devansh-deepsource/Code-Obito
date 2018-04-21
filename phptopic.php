@@ -39,5 +39,30 @@ The topics go here
 
 ?>
 </nav>
+	<a href=""> 1</a><br>
+<a href=""> 2</a><br>
+<a href=""> 3</a><br>
+<a href=""> 4</a><br>
+<a href=""> 5</a><br>
+<a href=""> 6</a><br>
+<a href=""> 7</a><br>
+<a href=""> 8</a><br>
+<a href=""> 9</a><br>
+<a href=""> 10</a><br>
+<a href=""> 11</a><br>
+<a href=""> 12</a><br>
+<a href=""> 13</a><br>
+<a href=""> 14</a><br>
+<a href=""> 15</a><br>
+<br><br><br><br>
+
+<footer>
+<?php
+
+    require "footer.php";
+
+?>
+
+</footer>
 </body>
 </html>
