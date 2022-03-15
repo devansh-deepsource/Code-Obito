@@ -3,3 +3,18 @@ version = 1
 [[analyzers]]
 name = "javascript"
 enabled = true
+
+[[analyzers]]
+name = "ruby"
+enabled = true
+
+[[analyzers]]
+name = "rust"
+enabled = true
+
+  [analyzers.meta]
+  msrv = "1.30.0"
+
+[[analyzers]]
+name = "scala"
+enabled = true
